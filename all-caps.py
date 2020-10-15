@@ -9,5 +9,4 @@ with open(srt_file, "r") as f:
 with open("captions_uppercase.srt", "w") as f:
     f.write(lower)
 
-#Test
 
